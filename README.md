@@ -1,5 +1,4 @@
-# Greed
-This is a program that facilitates a game of "Greed"
+
 
 Greed is played according to the following rules:
 
@@ -11,9 +10,3 @@ Greed is played according to the following rules:
     - Gems and rocks are removed when the player touches them.
     - The game continues until the player closes the window.
 
-The program must meet the following specifications:
-
-    - The program must have a README file.
-    - The program must have at least eight classes.
-    - Each module, class and method must have a corresponding comment.
-    - The game must remain generally true to the order of play described earlier.
